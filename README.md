@@ -1,5 +1,25 @@
-# Windows10.1Installer
-Redress Windows 10.1 is briefly a project that restores the Windows 10 style on Windows 11.
+<h1 align="center">
+  <br>
+  Redress Windows 10.1
+  <br>
+</h1>
+
+<h4 align="center">Redress Windows 10.1 is briefly a project that restores the Windows 10 style on Windows 11</h4>
+
+<p align="center">
+<a href="https://github.com/Vichingo455/Notepad/releases/latest" target="_blank">
+<img alt="Latest GitHub release" src="https://img.shields.io/github/release/Vichingo455/Windows10.1Installer.svg?style=flat-square" />
+</a>
+	
+<a href="https://github.com/Vichingo455/Notepad/releases" target="_blank">
+<img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/Vichingo455/Windows10.1Installer/total.svg?style=flat-square" />
+</a>
+
+<a href="https://github.com/Vichingo455/Notepad/issues">
+<img src="https://img.shields.io/github/issues-raw/Vichingo455/Windows10.1Installer.svg?style=flat-square&logo=github&logoColor=white"
+alt="GitHub issues"/></a>
+</p>
+
 ## The idea
 I got that idea because I saw a video about ExplorerPatcher from the youtuber Come on Windows. So I decided to download it and start developing Redress Windows 10.1 as windows mod. But Windows mods are not 100% legal (for obvious reasons), so I decided to move into a Transformation Pack.
 
