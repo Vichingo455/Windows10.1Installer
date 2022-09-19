@@ -7,15 +7,15 @@
 <h4 align="center">Redress Windows 10.1 is briefly a project that restores the Windows 10 style on Windows 11</h4>
 
 <p align="center">
-<a href="https://github.com/Vichingo455/Notepad/releases/latest" target="_blank">
+<a href="https://github.com/Vichingo455/Windows10.1Installer/releases/latest" target="_blank">
 <img alt="Latest GitHub release" src="https://img.shields.io/github/release/Vichingo455/Windows10.1Installer.svg?style=flat-square" />
 </a>
 	
-<a href="https://github.com/Vichingo455/Notepad/releases" target="_blank">
+<a href="https://github.com/Vichingo455/Windows10.1Installer/releases" target="_blank">
 <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/Vichingo455/Windows10.1Installer/total.svg?style=flat-square" />
 </a>
 
-<a href="https://github.com/Vichingo455/Notepad/issues">
+<a href="https://github.com/Vichingo455/Windows10.1Installer/issues">
 <img src="https://img.shields.io/github/issues-raw/Vichingo455/Windows10.1Installer.svg?style=flat-square&logo=github&logoColor=white"
 alt="GitHub issues"/></a>
 </p>
